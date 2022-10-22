@@ -17,6 +17,7 @@ import { ShoppingListComponent } from './shopping-list/shopping-list.component';
     AppComponent,
     HeaderComponent,
     RecipesComponent,
+    ShoppingEditComponent,
     RecipeDetailComponent,
     RecipeDetailComponent,
     RecipeItemComponent,
